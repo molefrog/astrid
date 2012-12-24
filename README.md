@@ -1,5 +1,4 @@
-﻿Atrid
------
+﻿# Astrid
 
 Building bright curves for different types of geometrical objects.
 
